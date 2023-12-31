@@ -11,6 +11,7 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 Step1:
 Use from robomaster import robot
+<br>
 Step2: 
 Choose the x,y,z-axis movement distance(meters)
 <br>
