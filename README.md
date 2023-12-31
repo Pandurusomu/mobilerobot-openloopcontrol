@@ -11,23 +11,18 @@ To develop a python control code to move the mobilerobot along the predefined pa
 
 Step1: import time and from robomaster import robot
 
-<br/>
-
 Step2: initialize the robot and give ur essential moments
 
-<br/>
+
 
 Step3: give the comands through conditional statements
 
-<br/>
 
 Step4:run the code
 
-<br/>
 
 Step5: done
 
-<br/>
 
 ## Program
 ```python
@@ -108,27 +103,15 @@ Insert image here
 
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-
 ## MobileRobot Movement Video:
 
 Upload your video in Youtube and paste your video-id here
 https://www.youtube.com/watch?si=_v3S-ukKMnpdri4x&v=dUtd1FnMlwY&feature=youtu.be
 
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
 
 ```
 Mobile Robotics Laboratory
