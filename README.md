@@ -104,7 +104,8 @@ Insert image here
 ![IMG-20231229-WA0004](https://github.com/Pandurusomu/mobilerobot-openloopcontrol/assets/148988619/65af04b1-ea8f-4aeb-b781-19ffd8f2d028)
 
 ![WhatsApp Image 2023-12-28 at 15 58 41_b478d184](https://github.com/Pandurusomu/mobilerobot-openloopcontrol/assets/148988619/5cb81579-929d-4d83-a733-d3b5814fb1fb)
-![WhatsApp Image 2023-12-28 at 15 58 41_038c1f80](https://github.com/Pandurusomu/mobilerobot-openloopcontrol/assets/148988619/30d7599a-7ff4-4940-834f-1a8612e503cc)
+![IMG-20231229-WA0007](https://github.com/Pandurusomu/mobilerobot-openloopcontrol/assets/148988619/22ae27b2-200a-41dd-ac12-e8d1eae17fd4)
+
 
 
 <br/>
